@@ -1,5 +1,5 @@
 
-# UAP-Auto-SSH-Setup
+# UAP-SSH-ASSOC
 
 Unifi AP Automated SSH Setup associates AP with the controller.
 
